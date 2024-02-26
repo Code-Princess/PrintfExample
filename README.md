@@ -1,2 +1,2 @@
 # PrintfExample
-This program shows how to use escape-sequences to format a text.
+This program shows how to use printf and how to format variable values.
